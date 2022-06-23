@@ -42,7 +42,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$157.1 million"
+            "Box office": "$157.1 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "53",
+            "ImdbVotes": "314,016",
+            "Rotten Tomatoes": "47%"
         }
     },
     {
@@ -87,7 +91,11 @@
             ],
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$81.1 million"
+            "Box office": "$81.1 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "55",
+            "ImdbVotes": "94,198",
+            "Rotten Tomatoes": "55%"
         }
     },
     {
@@ -141,7 +149,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$52 million",
-            "Box office": "$216.5 million"
+            "Box office": "$216.5 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "34",
+            "ImdbVotes": "119,426",
+            "Rotten Tomatoes": "18%"
         }
     },
     {
@@ -177,7 +189,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$55.6 million"
+            "Box office": "$55.6 million",
+            "ImdbRating": "5.6",
+            "MetaScore": "31",
+            "ImdbVotes": "87,845",
+            "Rotten Tomatoes": "18%"
         }
     },
     {
@@ -217,7 +233,11 @@
             "Country": "India",
             "Language": "Hindi",
             "Budget": "",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "6.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "6,016",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -251,7 +271,11 @@
             "Running time": "43 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$73.6 million"
+            "Box office": "$73.6 million",
+            "ImdbRating": "N/A",
+            "MetaScore": "N/A",
+            "ImdbVotes": "N/A",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -285,7 +309,11 @@
             ],
             "Running time": "93 minutes",
             "Country": "United Kingdom",
-            "Language": "English"
+            "Language": "English",
+            "ImdbRating": "6.6",
+            "MetaScore": "N/A",
+            "ImdbVotes": "952",
+            "Rotten Tomatoes": "55%"
         }
     },
     {
@@ -323,7 +351,11 @@
             ],
             "Running time": "126 minutes",
             "Country": "India",
-            "Language": "Hindi"
+            "Language": "Hindi",
+            "ImdbRating": "6.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "549",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -368,7 +400,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$1.7 million"
+            "Box office": "$1.7 million",
+            "ImdbRating": "4.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "27,365",
+            "Rotten Tomatoes": "0%"
         }
     },
     {
@@ -406,7 +442,11 @@
             "Running time": "87 minutes",
             "Country": "France",
             "Language": "French",
-            "Budget": "€5.5m"
+            "Budget": "€5.5m",
+            "ImdbRating": "5.9",
+            "MetaScore": "N/A",
+            "ImdbVotes": "454",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -454,7 +494,11 @@
             ],
             "Language": "English",
             "Budget": "$125 million",
-            "Box office": "$493.2 million"
+            "Box office": "$493.2 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "39",
+            "ImdbVotes": "280,874",
+            "Rotten Tomatoes": "27%"
         }
     },
     {
@@ -482,7 +526,11 @@
             ],
             "Running time": "115 minutes",
             "Country": "India",
-            "Language": "Hindi"
+            "Language": "Hindi",
+            "ImdbRating": "4.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "603",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -522,7 +570,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25million",
-            "Box office": "$29.9million"
+            "Box office": "$29.9million",
+            "ImdbRating": "6.3",
+            "MetaScore": "44",
+            "ImdbVotes": "100,448",
+            "Rotten Tomatoes": "48%"
         }
     },
     {
@@ -568,7 +620,11 @@
                 "Gaelic"
             ],
             "Budget": "$12 million",
-            "Box office": "$6.9 million"
+            "Box office": "$6.9 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "62",
+            "ImdbVotes": "82,472",
+            "Rotten Tomatoes": "61%"
         }
     },
     {
@@ -611,7 +667,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35 million",
-            "Box office": "$117.7 million"
+            "Box office": "$117.7 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "76",
+            "ImdbVotes": "231,240",
+            "Rotten Tomatoes": "95%"
         }
     },
     {
@@ -650,7 +710,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$95 million",
-            "Box office": "$294.6 million"
+            "Box office": "$294.6 million",
+            "ImdbRating": "4.5",
+            "MetaScore": "27",
+            "ImdbVotes": "79,330",
+            "Rotten Tomatoes": "16%"
         }
     },
     {
@@ -698,7 +762,11 @@
             ],
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$27.1 million"
+            "Box office": "$27.1 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "66",
+            "ImdbVotes": "97,003",
+            "Rotten Tomatoes": "75%"
         }
     },
     {
@@ -736,7 +804,11 @@
                 "Japanese",
                 "English"
             ],
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "7.5",
+            "MetaScore": "64",
+            "ImdbVotes": "1,686",
+            "Rotten Tomatoes": "77%"
         }
     },
     {
@@ -784,7 +856,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$47million",
-            "Box office": "$11million"
+            "Box office": "$11million",
+            "ImdbRating": "4.7",
+            "MetaScore": "33",
+            "ImdbVotes": "58,774",
+            "Rotten Tomatoes": "12%"
         }
     },
     {
@@ -828,7 +904,11 @@
             ],
             "Language": "English",
             "Budget": "$160 million",
-            "Box office": "$836.8 million"
+            "Box office": "$836.8 million",
+            "ImdbRating": "8.8",
+            "MetaScore": "74",
+            "ImdbVotes": "2,273,495",
+            "Rotten Tomatoes": "87%"
         }
     },
     {
@@ -881,7 +961,11 @@
             ],
             "Language": "English",
             "Budget": "$85 million",
-            "Box office": "$112.5 million"
+            "Box office": "$112.5 million",
+            "ImdbRating": "4.3",
+            "MetaScore": "30",
+            "ImdbVotes": "15,165",
+            "Rotten Tomatoes": "13%"
         }
     },
     {
@@ -919,7 +1003,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$14 million",
-            "Box office": "$4.3 million"
+            "Box office": "$4.3 million",
+            "ImdbRating": "7.7",
+            "MetaScore": "45",
+            "ImdbVotes": "89,146",
+            "Rotten Tomatoes": "54%"
         }
     },
     {
@@ -966,7 +1054,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$17 million",
-            "Box office": "$24.7 million"
+            "Box office": "$24.7 million",
+            "ImdbRating": "5.0",
+            "MetaScore": "50",
+            "ImdbVotes": "11,049",
+            "Rotten Tomatoes": "34%"
         }
     },
     {
@@ -1014,7 +1106,11 @@
                 "Gaelic"
             ],
             "Budget": "$17 million",
-            "Box office": "$6 million"
+            "Box office": "$6 million",
+            "ImdbRating": "7.6",
+            "MetaScore": "68",
+            "ImdbVotes": "369,588",
+            "Rotten Tomatoes": "73%"
         }
     },
     {
@@ -1040,7 +1136,11 @@
                 "August27,2010"
             ],
             "Country": "Mexico",
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "N/A",
+            "MetaScore": "N/A",
+            "ImdbVotes": "N/A",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1076,7 +1176,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$32 million",
-            "Box office": "$42.1 million"
+            "Box office": "$42.1 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "51",
+            "ImdbVotes": "58,392",
+            "Rotten Tomatoes": "54%"
         }
     },
     {
@@ -1125,7 +1229,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$37 million",
-            "Box office": "$154 million"
+            "Box office": "$154 million",
+            "ImdbRating": "7.5",
+            "MetaScore": "74",
+            "ImdbVotes": "382,985",
+            "Rotten Tomatoes": "92%"
         }
     },
     {
@@ -1176,7 +1284,11 @@
             ],
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$140.1 million"
+            "Box office": "$140.1 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "53",
+            "ImdbVotes": "82,873",
+            "Rotten Tomatoes": "52%"
         }
     },
     {
@@ -1212,7 +1324,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$38 million",
-            "Box office": "$105.7 million"
+            "Box office": "$105.7 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "39",
+            "ImdbVotes": "130,940",
+            "Rotten Tomatoes": "29%"
         }
     },
     {
@@ -1256,7 +1372,11 @@
             "Country": "Germany",
             "Language": "German",
             "Budget": "€3 million",
-            "Box office": "$5.827 million"
+            "Box office": "$5.827 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "55",
+            "ImdbVotes": "2,926",
+            "Rotten Tomatoes": "64%"
         }
     },
     {
@@ -1288,7 +1408,11 @@
             "Country": "India",
             "Language": "Hindi",
             "Budget": "₹7 crore",
-            "Box office": "₹0.98 crore"
+            "Box office": "₹0.98 crore",
+            "ImdbRating": "5.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "531",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1320,7 +1444,11 @@
                 "16October2010"
             ],
             "Country": "Japan",
-            "Language": "Japanese"
+            "Language": "Japanese",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1353,7 +1481,11 @@
             ],
             "Running time": "123 minutes",
             "Country": "India",
-            "Language": "Hindi"
+            "Language": "Hindi",
+            "ImdbRating": "7.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "321",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1394,7 +1526,11 @@
                 "French"
             ],
             "Budget": "$50 million",
-            "Box office": "$107 million"
+            "Box office": "$107 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "56",
+            "ImdbVotes": "92,787",
+            "Rotten Tomatoes": "47%"
         }
     },
     {
@@ -1439,7 +1575,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$65 million",
-            "Box office": "$211.8 million"
+            "Box office": "$211.8 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "51",
+            "ImdbVotes": "340,013",
+            "Rotten Tomatoes": "39%"
         }
     },
     {
@@ -1457,7 +1597,11 @@
             ],
             "Running time": "103 minutes",
             "Country": "Italy",
-            "Language": "Italian"
+            "Language": "Italian",
+            "ImdbRating": "5.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "345",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1514,7 +1658,11 @@
                 "$250 million",
                 "Part 2"
             ],
-            "Box office": "$977.1 million"
+            "Box office": "$977.1 million",
+            "ImdbRating": "7.7",
+            "MetaScore": "65",
+            "ImdbVotes": "532,289",
+            "Rotten Tomatoes": "77%"
         }
     },
     {
@@ -1541,7 +1689,11 @@
             "Country": "India",
             "Language": "Hindi",
             "Budget": "(US$790,000)",
-            "Box office": "(US$1.8million)"
+            "Box office": "(US$1.8million)",
+            "ImdbRating": "7.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "5,498",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1566,7 +1718,11 @@
             "Country": "Spain",
             "Language": "Spanish",
             "Budget": "$3,000,000",
-            "Box office": "€9,881,471"
+            "Box office": "€9,881,471",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1604,7 +1760,11 @@
             "Country": "Turkey",
             "Language": "Turkish",
             "Budget": "US$4 million",
-            "Box office": "US$12,160,978"
+            "Box office": "US$12,160,978",
+            "ImdbRating": "7.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "34,301",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1627,7 +1787,11 @@
             ],
             "Running time": "93 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "4.9",
+            "MetaScore": "N/A",
+            "ImdbVotes": "104",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1671,7 +1835,11 @@
             ],
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$203.5 million"
+            "Box office": "$203.5 million",
+            "ImdbRating": "4.6",
+            "MetaScore": "35",
+            "ImdbVotes": "21,896",
+            "Rotten Tomatoes": "13%"
         }
     },
     {
@@ -1714,7 +1882,11 @@
             ],
             "Language": "Spanish",
             "Budget": "€7 million",
-            "Box office": "$3.3 million"
+            "Box office": "$3.3 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "70",
+            "ImdbVotes": "14,240",
+            "Rotten Tomatoes": "77%"
         }
     },
     {
@@ -1762,7 +1934,11 @@
             ],
             "Language": "English",
             "Budget": "$18 million",
-            "Box office": "$60.7 million"
+            "Box office": "$60.7 million",
+            "ImdbRating": "7.6",
+            "MetaScore": "82",
+            "ImdbVotes": "371,553",
+            "Rotten Tomatoes": "93%"
         }
     },
     {
@@ -1802,7 +1978,11 @@
             "Running time": "97 minutes",
             "Country": "Spain",
             "Language": "Spanish",
-            "Box office": "$5.5 million"
+            "Box office": "$5.5 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "N/A",
+            "ImdbVotes": "4,814",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1846,7 +2026,11 @@
             ],
             "Language": "English",
             "Budget": "$37 million",
-            "Box office": "$96.6 million"
+            "Box office": "$96.6 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "38",
+            "ImdbVotes": "97,400",
+            "Rotten Tomatoes": "21%"
         }
     },
     {
@@ -1891,7 +2075,11 @@
             "Budget": [
                 "€5.65 million"
             ],
-            "Box office": "$45.4 million"
+            "Box office": "$45.4 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "9,838",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1924,7 +2112,11 @@
                 "4February2011"
             ],
             "Country": "India",
-            "Language": "Hindi"
+            "Language": "Hindi",
+            "ImdbRating": "6.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "315",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -1982,7 +2174,11 @@
             ],
             "Language": "English",
             "Budget": "$30–40million",
-            "Box office": "$136.1 million"
+            "Box office": "$136.1 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "56",
+            "ImdbVotes": "260,195",
+            "Rotten Tomatoes": "55%"
         }
     },
     {
@@ -2030,7 +2226,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$36 million",
-            "Box office": "$83.2 million"
+            "Box office": "$83.2 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "45",
+            "ImdbVotes": "125,348",
+            "Rotten Tomatoes": "33%"
         }
     },
     {
@@ -2074,7 +2274,11 @@
             "Country": "Turkey",
             "Language": "Turkish",
             "Budget": "US$5,000,000",
-            "Box office": "US$4,711,624"
+            "Box office": "US$4,711,624",
+            "ImdbRating": "N/A",
+            "MetaScore": "N/A",
+            "ImdbVotes": "N/A",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -2129,7 +2333,11 @@
                 "Germany"
             ],
             "Language": "English",
-            "Budget": "$25million"
+            "Budget": "$25million",
+            "ImdbRating": "6.1",
+            "MetaScore": "42",
+            "ImdbVotes": "41,997",
+            "Rotten Tomatoes": "42%"
         }
     },
     {
@@ -2170,7 +2378,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$42 million",
-            "Box office": "$90.2 million"
+            "Box office": "$90.2 million",
+            "ImdbRating": "5.4",
+            "MetaScore": "29",
+            "ImdbVotes": "111,772",
+            "Rotten Tomatoes": "10%"
         }
     },
     {
@@ -2202,7 +2414,11 @@
             "Running time": "90 minutes",
             "Country": "Turkey",
             "Language": "Turkish",
-            "Box office": "US$4,156,398"
+            "Box office": "US$4,156,398",
+            "ImdbRating": "5.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "7,053",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -2250,7 +2466,11 @@
             ],
             "Language": "English",
             "Budget": "$82 million",
-            "Box office": "$89.8 million"
+            "Box office": "$89.8 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "33",
+            "ImdbVotes": "241,640",
+            "Rotten Tomatoes": "22%"
         }
     },
     {
@@ -2293,7 +2513,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$48.1 million"
+            "Box office": "$48.1 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "36",
+            "ImdbVotes": "51,889",
+            "Rotten Tomatoes": "26%"
         }
     },
     {
@@ -2321,7 +2545,11 @@
             "Running time": "40 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$41,644,475"
+            "Box office": "$41,644,475",
+            "ImdbRating": "7.5",
+            "MetaScore": "66",
+            "ImdbVotes": "3,051",
+            "Rotten Tomatoes": "98%"
         }
     },
     {
@@ -2364,7 +2592,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35 million",
-            "Box office": "$60.1 million"
+            "Box office": "$60.1 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "36",
+            "ImdbVotes": "62,172",
+            "Rotten Tomatoes": "15%"
         }
     },
     {
@@ -2411,7 +2643,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$586.8 million"
+            "Box office": "$586.8 million",
+            "ImdbRating": "6.4",
+            "MetaScore": "44",
+            "ImdbVotes": "491,537",
+            "Rotten Tomatoes": "34%"
         }
     },
     {
@@ -2460,7 +2696,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$200 million",
-            "Box office": "$219.9 million"
+            "Box office": "$219.9 million",
+            "ImdbRating": "5.5",
+            "MetaScore": "39",
+            "ImdbVotes": "282,172",
+            "Rotten Tomatoes": "26%"
         }
     },
     {
@@ -2480,7 +2720,11 @@
             "Languages": [
                 "French",
                 "Greek"
-            ]
+            ],
+            "ImdbRating": "6.9",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,590",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -2524,7 +2768,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35–37 million",
-            "Box office": "$209.6 million"
+            "Box office": "$209.6 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "57",
+            "ImdbVotes": "443,101",
+            "Rotten Tomatoes": "69%"
         }
     },
     {
@@ -2578,7 +2826,11 @@
                 "$250 million",
                 "Part 1"
             ],
-            "Box office": "$1.342 billion"
+            "Box office": "$1.342 billion",
+            "ImdbRating": "8.1",
+            "MetaScore": "85",
+            "ImdbVotes": "847,525",
+            "Rotten Tomatoes": "96%"
         }
     },
     {
@@ -2622,7 +2874,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$145 million"
+            "Box office": "$145 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "68",
+            "ImdbVotes": "510,857",
+            "Rotten Tomatoes": "79%"
         }
     },
     {
@@ -2661,7 +2917,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$157.9 million"
+            "Box office": "$157.9 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "50",
+            "ImdbVotes": "114,995",
+            "Rotten Tomatoes": "62%"
         }
     },
     {
@@ -2700,7 +2960,11 @@
             "Country": "Spain",
             "Language": "Spanish",
             "Budget": "$13.5 million",
-            "Box office": "$30.8 million"
+            "Box office": "$30.8 million",
+            "ImdbRating": "7.6",
+            "MetaScore": "70",
+            "ImdbVotes": "150,696",
+            "Rotten Tomatoes": "81%"
         }
     },
     {
@@ -2739,7 +3003,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$60 million",
-            "Box office": "$136.5 million"
+            "Box office": "$136.5 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "70",
+            "ImdbVotes": "300,607",
+            "Rotten Tomatoes": "85%"
         }
     },
     {
@@ -2787,7 +3055,11 @@
             "Box office": [
                 "MX$112.25 million",
                 "US$"
-            ]
+            ],
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -2825,7 +3097,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$37 million",
-            "Box office": "$95.9 million"
+            "Box office": "$95.9 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "64",
+            "ImdbVotes": "24,246",
+            "Rotten Tomatoes": "82%"
         }
     },
     {
@@ -2859,7 +3135,11 @@
             ],
             "Country": "Spain",
             "Language": "Spanish",
-            "Box office": "$5.9 million (Spain)"
+            "Box office": "$5.9 million (Spain)",
+            "ImdbRating": "6.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "5,203",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -2899,7 +3179,11 @@
             ],
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$40 million"
+            "Box office": "$40 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "35",
+            "ImdbVotes": "66,656",
+            "Rotten Tomatoes": "6%"
         }
     },
     {
@@ -2929,7 +3213,11 @@
                 "30September2011"
             ],
             "Country": "India",
-            "Language": "Hindi"
+            "Language": "Hindi",
+            "ImdbRating": "6.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "109",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -2976,7 +3264,11 @@
             "Running time": "100 minutes",
             "Country": "France",
             "Budget": "$15 million",
-            "Box office": "$133.4 million"
+            "Box office": "$133.4 million",
+            "ImdbRating": "7.9",
+            "MetaScore": "89",
+            "ImdbVotes": "240,128",
+            "Rotten Tomatoes": "95%"
         }
     },
     {
@@ -3002,7 +3294,11 @@
             ],
             "Running time": "93 minutes",
             "Country": "Italy",
-            "Language": "Italian"
+            "Language": "Italian",
+            "ImdbRating": "7.9",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,822",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -3035,7 +3331,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$19 million",
-            "Box office": "$36.2 million"
+            "Box office": "$36.2 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "61",
+            "ImdbVotes": "69,477",
+            "Rotten Tomatoes": "68%"
         }
     },
     {
@@ -3076,7 +3376,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35 million",
-            "Box office": "$84.9 million"
+            "Box office": "$84.9 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "59",
+            "ImdbVotes": "128,050",
+            "Rotten Tomatoes": "43%"
         }
     },
     {
@@ -3136,7 +3440,11 @@
             ],
             "Language": "English",
             "Budget": "$135 million",
-            "Box office": "$150.4 million"
+            "Box office": "$150.4 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "50",
+            "ImdbVotes": "44,666",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -3186,7 +3494,11 @@
             ],
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$5.5 million"
+            "Box office": "$5.5 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "69",
+            "ImdbVotes": "883",
+            "Rotten Tomatoes": "84%"
         }
     },
     {
@@ -3202,7 +3514,11 @@
             ],
             "Running time": "123 minutes",
             "Country": "Turkey",
-            "Language": "Turkish"
+            "Language": "Turkish",
+            "ImdbRating": "8.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "10,714",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -3235,7 +3551,11 @@
                 "India",
                 "United Arab Emirates"
             ],
-            "Language": "English"
+            "Language": "English",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -3284,7 +3604,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$56 million",
-            "Box office": "$142 million"
+            "Box office": "$142 million",
+            "ImdbRating": "5.6",
+            "MetaScore": "22",
+            "ImdbVotes": "85,747",
+            "Rotten Tomatoes": "7%"
         }
     },
     {
@@ -3330,7 +3654,11 @@
             ],
             "Language": "English",
             "Budget": "$125 million",
-            "Box office": "$543.8 million"
+            "Box office": "$543.8 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "48",
+            "ImdbVotes": "447,400",
+            "Rotten Tomatoes": "59%"
         }
     },
     {
@@ -3361,7 +3689,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$55.2 million"
+            "Box office": "$55.2 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "46",
+            "ImdbVotes": "101,427",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -3396,7 +3728,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25 million",
-            "Box office": "$31.2 million"
+            "Box office": "$31.2 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "44",
+            "ImdbVotes": "8,435",
+            "Rotten Tomatoes": "32%"
         }
     },
     {
@@ -3443,7 +3779,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$335 million"
+            "Box office": "$335 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "41",
+            "ImdbVotes": "103,073",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -3495,7 +3835,11 @@
                 "Taiwanese Min Nan"
             ],
             "Budget": "NT$300 million",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "6.0",
+            "MetaScore": "51",
+            "ImdbVotes": "57,192",
+            "Rotten Tomatoes": "40%"
         }
     },
     {
@@ -3542,7 +3886,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$57–75 million",
-            "Box office": "$132.6 million"
+            "Box office": "$132.6 million",
+            "ImdbRating": "4.3",
+            "MetaScore": "34",
+            "ImdbVotes": "118,354",
+            "Rotten Tomatoes": "18%"
         }
     },
     {
@@ -3575,7 +3923,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$12 million",
-            "Box office": "$102.7 million"
+            "Box office": "$102.7 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "48",
+            "ImdbVotes": "205,507",
+            "Rotten Tomatoes": "28%"
         }
     },
     {
@@ -3627,7 +3979,11 @@
             ],
             "Language": "English",
             "Budget": "$150 million",
-            "Box office": "$302 million"
+            "Box office": "$302 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "37",
+            "ImdbVotes": "188,397",
+            "Rotten Tomatoes": "26%"
         }
     },
     {
@@ -3664,7 +4020,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25million",
-            "Box office": "$99.4million"
+            "Box office": "$99.4million",
+            "ImdbRating": "6.4",
+            "MetaScore": "39",
+            "ImdbVotes": "107,629",
+            "Rotten Tomatoes": "20%"
         }
     },
     {
@@ -3691,7 +4051,11 @@
             "Running time": "40 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$23.7 million"
+            "Box office": "$23.7 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "48",
+            "ImdbVotes": "1,098",
+            "Rotten Tomatoes": "64%"
         }
     },
     {
@@ -3746,7 +4110,11 @@
             ],
             "Language": "English",
             "Budget": "$150 million",
-            "Box office": "$245.5 million"
+            "Box office": "$245.5 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "55",
+            "ImdbVotes": "263,688",
+            "Rotten Tomatoes": "35%"
         }
     },
     {
@@ -3790,7 +4158,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$1 million",
-            "Box office": "$37.2 million"
+            "Box office": "$37.2 million",
+            "ImdbRating": "5.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "66,167",
+            "Rotten Tomatoes": "19%"
         }
     },
     {
@@ -3843,7 +4215,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$75 million",
-            "Box office": "$59.4 million"
+            "Box office": "$59.4 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "47",
+            "ImdbVotes": "77,613",
+            "Rotten Tomatoes": "43%"
         }
     },
     {
@@ -3889,7 +4265,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$7 million",
-            "Box office": "$167.2 million"
+            "Box office": "$167.2 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "72",
+            "ImdbVotes": "137,569",
+            "Rotten Tomatoes": "79%"
         }
     },
     {
@@ -3941,7 +4321,11 @@
             ],
             "Language": "English",
             "Budget": [],
-            "Box office": "$1.081 billion"
+            "Box office": "$1.081 billion",
+            "ImdbRating": "8.4",
+            "MetaScore": "78",
+            "ImdbVotes": "1,659,740",
+            "Rotten Tomatoes": "87%"
         }
     },
     {
@@ -3994,7 +4378,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$95 million",
-            "Box office": "$104.9 million"
+            "Box office": "$104.9 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "50",
+            "ImdbVotes": "130,869",
+            "Rotten Tomatoes": "66%"
         }
     },
     {
@@ -4038,7 +4426,11 @@
             ],
             "Language": "English",
             "Budget": "$17 million",
-            "Box office": "$11.3 million"
+            "Box office": "$11.3 million",
+            "ImdbRating": "4.1",
+            "MetaScore": "18",
+            "ImdbVotes": "19,891",
+            "Rotten Tomatoes": "3%"
         }
     },
     {
@@ -4081,7 +4473,11 @@
             "Country": "Japan",
             "Language": "Japanese",
             "Budget": "",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "8.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "19,217",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4119,7 +4515,11 @@
                 "France"
             ],
             "Language": "English",
-            "Box office": "$2.6 million"
+            "Box office": "$2.6 million",
+            "ImdbRating": "7.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "34,196",
+            "Rotten Tomatoes": "56%"
         }
     },
     {
@@ -4153,7 +4553,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$60 million",
-            "Box office": "$49 million"
+            "Box office": "$49 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "58",
+            "ImdbVotes": "63,725",
+            "Rotten Tomatoes": "51%"
         }
     },
     {
@@ -4192,7 +4596,11 @@
             ],
             "Running time": "133 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "3.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "279",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4229,7 +4637,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$44.5 million",
-            "Box office": "$232.3 million"
+            "Box office": "$232.3 million",
+            "ImdbRating": "7.7",
+            "MetaScore": "86",
+            "ImdbVotes": "606,430",
+            "Rotten Tomatoes": "96%"
         }
     },
     {
@@ -4250,7 +4662,11 @@
                 "Germany",
                 "Austria"
             ],
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "5.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,799",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4325,7 +4741,11 @@
             ],
             "Language": "English",
             "Budget": "$100–146.7 million",
-            "Box office": "$130.5 million"
+            "Box office": "$130.5 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "55",
+            "ImdbVotes": "359,817",
+            "Rotten Tomatoes": "66%"
         }
     },
     {
@@ -4379,7 +4799,11 @@
             ],
             "Language": "English",
             "Budget": "$200–315 million",
-            "Box office": "$1.017 billion"
+            "Box office": "$1.017 billion",
+            "ImdbRating": "7.8",
+            "MetaScore": "58",
+            "ImdbVotes": "804,662",
+            "Rotten Tomatoes": "64%"
         }
     },
     {
@@ -4398,7 +4822,11 @@
             "Running time": "130 minutes",
             "Country": "Germany",
             "Language": "German",
-            "Budget": "€16,000,000 (estimated)"
+            "Budget": "€16,000,000 (estimated)",
+            "ImdbRating": "6.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "823",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4443,7 +4871,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$60–75 million",
-            "Box office": "$105.2 million"
+            "Box office": "$105.2 million",
+            "ImdbRating": "6.7",
+            "MetaScore": "40",
+            "ImdbVotes": "214,058",
+            "Rotten Tomatoes": "31%"
         }
     },
     {
@@ -4492,7 +4924,11 @@
                 "Dutch",
                 "English"
             ],
-            "Budget": "€4 million"
+            "Budget": "€4 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "N/A",
+            "ImdbVotes": "127",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4536,7 +4972,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40–55 million",
-            "Box office": "$22.6 million"
+            "Box office": "$22.6 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "48",
+            "ImdbVotes": "49,855",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -4582,7 +5022,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50–60 million",
-            "Box office": "$60.1 million"
+            "Box office": "$60.1 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "52",
+            "ImdbVotes": "87,411",
+            "Rotten Tomatoes": "47%"
         }
     },
     {
@@ -4623,7 +5067,11 @@
             "Running time": "90 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4677,7 +5125,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$185–200 million",
-            "Box office": "$197 million"
+            "Box office": "$197 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "51",
+            "ImdbVotes": "137,901",
+            "Rotten Tomatoes": "52%"
         }
     },
     {
@@ -4716,7 +5168,11 @@
             "Running time": "90 minutes",
             "Country": "Spain",
             "Language": "Spanish",
-            "Box office": "$21.2 million"
+            "Box office": "$21.2 million",
+            "ImdbRating": "5.6",
+            "MetaScore": "55",
+            "ImdbVotes": "23,623",
+            "Rotten Tomatoes": "49%"
         }
     },
     {
@@ -4737,7 +5193,11 @@
             ],
             "Running time": "101 minutes",
             "Country": "Turkey",
-            "Language": "Turkish"
+            "Language": "Turkish",
+            "ImdbRating": "7.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "4,899",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4786,7 +5246,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$34 million",
-            "Box office": "$27.4 million"
+            "Box office": "$27.4 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "44",
+            "ImdbVotes": "73,442",
+            "Rotten Tomatoes": "38%"
         }
     },
     {
@@ -4825,7 +5289,11 @@
                 "Spanish",
                 "Catalan"
             ],
-            "Budget": "€5.5 million"
+            "Budget": "€5.5 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "8,476",
+            "Rotten Tomatoes": "91%"
         }
     },
     {
@@ -4851,7 +5319,11 @@
             ],
             "Running time": "104 minutes",
             "Country": "Turkey",
-            "Language": "Turkish"
+            "Language": "Turkish",
+            "ImdbRating": "6.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,559",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -4884,7 +5356,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$31-40 million",
-            "Box office": "$97.5 million"
+            "Box office": "$97.5 million",
+            "ImdbRating": "7.5",
+            "MetaScore": "62",
+            "ImdbVotes": "93,930",
+            "Rotten Tomatoes": "81%"
         }
     },
     {
@@ -4929,7 +5405,11 @@
             "Running time": "125 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "$8.8 million"
+            "Box office": "$8.8 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "35",
+            "ImdbVotes": "2,587",
+            "Rotten Tomatoes": "40%"
         }
     },
     {
@@ -4987,7 +5467,11 @@
             ],
             "Language": "English",
             "Budget": "$105 million",
-            "Box office": "$353.6 million"
+            "Box office": "$353.6 million",
+            "ImdbRating": "7.2",
+            "MetaScore": "55",
+            "ImdbVotes": "528,007",
+            "Rotten Tomatoes": "48%"
         }
     },
     {
@@ -5034,7 +5518,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$103 million",
-            "Box office": "$362 million"
+            "Box office": "$362 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "30",
+            "ImdbVotes": "310,760",
+            "Rotten Tomatoes": "20%"
         }
     },
     {
@@ -5083,7 +5571,11 @@
             ],
             "Language": "English",
             "Budget": "$225–258 million",
-            "Box office": "$668 million"
+            "Box office": "$668 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "55",
+            "ImdbVotes": "755,153",
+            "Rotten Tomatoes": "56%"
         }
     },
     {
@@ -5127,7 +5619,11 @@
             "Running time": "110 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "8.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,613",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5174,7 +5670,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$180–200 million",
-            "Box office": "$411 million"
+            "Box office": "$411 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "65",
+            "ImdbVotes": "494,004",
+            "Rotten Tomatoes": "72%"
         }
     },
     {
@@ -5214,7 +5714,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$20million",
-            "Box office": "$319.5million"
+            "Box office": "$319.5million",
+            "ImdbRating": "7.5",
+            "MetaScore": "68",
+            "ImdbVotes": "492,079",
+            "Rotten Tomatoes": "86%"
         }
     },
     {
@@ -5268,7 +5772,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$37 million",
-            "Box office": "$270 million"
+            "Box office": "$270 million",
+            "ImdbRating": "7.0",
+            "MetaScore": "44",
+            "ImdbVotes": "439,926",
+            "Rotten Tomatoes": "49%"
         }
     },
     {
@@ -5312,7 +5820,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$18 million",
-            "Box office": "$11.8 million"
+            "Box office": "$11.8 million",
+            "ImdbRating": "4.4",
+            "MetaScore": "22",
+            "ImdbVotes": "24,242",
+            "Rotten Tomatoes": "3%"
         }
     },
     {
@@ -5341,7 +5853,11 @@
             ],
             "Running time": "95 minutes",
             "Country": "Spain",
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "6.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "4,451",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5369,7 +5885,11 @@
             "Languages": [
                 "Japanese",
                 "Ainu"
-            ]
+            ],
+            "ImdbRating": "8.2",
+            "MetaScore": "85",
+            "ImdbVotes": "405,439",
+            "Rotten Tomatoes": "96%"
         }
     },
     {
@@ -5416,7 +5936,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$46million",
-            "Box office": "$122.1million"
+            "Box office": "$122.1million",
+            "ImdbRating": "8.1",
+            "MetaScore": "70",
+            "ImdbVotes": "681,728",
+            "Rotten Tomatoes": "81%"
         }
     },
     {
@@ -5459,7 +5983,11 @@
             ],
             "Language": "English",
             "Budget": "$80–130 million",
-            "Box office": "$723.2 million"
+            "Box office": "$723.2 million",
+            "ImdbRating": "7.7",
+            "MetaScore": "96",
+            "ImdbVotes": "812,578",
+            "Rotten Tomatoes": "96%"
         }
     },
     {
@@ -5506,7 +6034,11 @@
             ],
             "Running time": "94 minutes",
             "Country": "Japan",
-            "Language": "Japanese"
+            "Language": "Japanese",
+            "ImdbRating": "6.0",
+            "MetaScore": "57",
+            "ImdbVotes": "2,590",
+            "Rotten Tomatoes": "72%"
         }
     },
     {
@@ -5562,7 +6094,11 @@
             ],
             "Language": "English",
             "Budget": "$4.4 million",
-            "Box office": "$1.2 million"
+            "Box office": "$1.2 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "779",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5587,7 +6123,11 @@
             ],
             "Running time": "105 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "5.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,459",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5626,7 +6166,11 @@
             ],
             "Running time": "106 minutes",
             "Country": "Japan",
-            "Language": "Japanese"
+            "Language": "Japanese",
+            "ImdbRating": "6.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "127",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5679,7 +6223,11 @@
             ],
             "Language": "English",
             "Budget": "$191–250 million",
-            "Box office": "$959 million"
+            "Box office": "$959 million",
+            "ImdbRating": "7.8",
+            "MetaScore": "66",
+            "ImdbVotes": "645,230",
+            "Rotten Tomatoes": "74%"
         }
     },
     {
@@ -5716,7 +6264,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$23 million",
-            "Box office": "$48.3 million"
+            "Box office": "$48.3 million",
+            "ImdbRating": "8.0",
+            "MetaScore": "91",
+            "ImdbVotes": "593,749",
+            "Rotten Tomatoes": "94%"
         }
     },
     {
@@ -5758,7 +6310,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$44.9 million"
+            "Box office": "$44.9 million",
+            "ImdbRating": "6.4",
+            "MetaScore": "35",
+            "ImdbVotes": "60,405",
+            "Rotten Tomatoes": "31%"
         }
     },
     {
@@ -5796,7 +6352,11 @@
             "Running time": "119 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "$5.8 million"
+            "Box office": "$5.8 million",
+            "ImdbRating": "7.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "7,903",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5821,7 +6381,11 @@
             ],
             "Running time": "110 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "5.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,715",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5889,7 +6453,11 @@
             ],
             "Language": "English",
             "Budget": "$60–65 million",
-            "Box office": "$468.1 million"
+            "Box office": "$468.1 million",
+            "ImdbRating": "7.7",
+            "MetaScore": "83",
+            "ImdbVotes": "347,203",
+            "Rotten Tomatoes": "96%"
         }
     },
     {
@@ -5936,7 +6504,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$75 million",
-            "Box office": "$30.8 million"
+            "Box office": "$30.8 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "31",
+            "ImdbVotes": "54,580",
+            "Rotten Tomatoes": "13%"
         }
     },
     {
@@ -5957,7 +6529,11 @@
             ],
             "Running time": "106 minutes",
             "Country": "Turkey",
-            "Language": "Turkish"
+            "Language": "Turkish",
+            "ImdbRating": "7.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "10,114",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -5978,7 +6554,11 @@
             "Running time": "117 minutes",
             "Country": "Turkey",
             "Language": "Turkish",
-            "Box office": "₺72.103.216,88"
+            "Box office": "₺72.103.216,88",
+            "ImdbRating": "3.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "16,595",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -6026,7 +6606,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$110 million",
-            "Box office": "$337.6 million"
+            "Box office": "$337.6 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "48",
+            "ImdbVotes": "297,672",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -6072,7 +6656,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$6 million",
-            "Box office": "$3.5 million"
+            "Box office": "$3.5 million",
+            "ImdbRating": "8.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "72,108",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -6102,7 +6690,11 @@
                 "Madagascar"
             ],
             "Language": "English",
-            "Box office": "$13,2 million"
+            "Box office": "$13,2 million",
+            "ImdbRating": "7.0",
+            "MetaScore": "66",
+            "ImdbVotes": "964",
+            "Rotten Tomatoes": "81%"
         }
     },
     {
@@ -6149,7 +6741,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$100–150 million",
-            "Box office": "$103 million"
+            "Box office": "$103 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "42",
+            "ImdbVotes": "227,671",
+            "Rotten Tomatoes": "19%"
         }
     },
     {
@@ -6193,7 +6789,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$160 million",
-            "Box office": "$529 million"
+            "Box office": "$529 million",
+            "ImdbRating": "6.4",
+            "MetaScore": "62",
+            "ImdbVotes": "407,925",
+            "Rotten Tomatoes": "76%"
         }
     },
     {
@@ -6232,7 +6832,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40-45 million",
-            "Box office": "$128 million"
+            "Box office": "$128 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "31",
+            "ImdbVotes": "130,908",
+            "Rotten Tomatoes": "15%"
         }
     },
     {
@@ -6280,7 +6884,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$178 million",
-            "Box office": "$370.5 million"
+            "Box office": "$370.5 million",
+            "ImdbRating": "7.9",
+            "MetaScore": "71",
+            "ImdbVotes": "657,480",
+            "Rotten Tomatoes": "91%"
         }
     },
     {
@@ -6325,7 +6933,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40–58.6 million",
-            "Box office": "$67.6 million"
+            "Box office": "$67.6 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "54",
+            "ImdbVotes": "34,841",
+            "Rotten Tomatoes": "51%"
         }
     },
     {
@@ -6366,7 +6978,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": [],
-            "Box office": "$100.3 million"
+            "Box office": "$100.3 million",
+            "ImdbRating": "4.9",
+            "MetaScore": "39",
+            "ImdbVotes": "51,557",
+            "Rotten Tomatoes": "24%"
         }
     },
     {
@@ -6398,7 +7014,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$161.7 million"
+            "Box office": "$161.7 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "44",
+            "ImdbVotes": "67,989",
+            "Rotten Tomatoes": "21%"
         }
     },
     {
@@ -6451,7 +7071,11 @@
             ],
             "Language": "Spanish",
             "Budget": "$3.3–4.5 million",
-            "Box office": "$30.6–44.1 million"
+            "Box office": "$30.6–44.1 million",
+            "ImdbRating": "8.1",
+            "MetaScore": "77",
+            "ImdbVotes": "194,093",
+            "Rotten Tomatoes": "94%"
         }
     },
     {
@@ -6484,7 +7108,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$11million",
-            "Box office": "$78.9million"
+            "Box office": "$78.9million",
+            "ImdbRating": "6.7",
+            "MetaScore": "46",
+            "ImdbVotes": "122,117",
+            "Rotten Tomatoes": "35%"
         }
     },
     {
@@ -6518,7 +7146,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$36 million",
-            "Box office": "$57.8 million"
+            "Box office": "$57.8 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "58",
+            "ImdbVotes": "9,155",
+            "Rotten Tomatoes": "66%"
         }
     },
     {
@@ -6557,7 +7189,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$19.8 million",
-            "Box office": "$41.3 million"
+            "Box office": "$41.3 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "44",
+            "ImdbVotes": "79,814",
+            "Rotten Tomatoes": "44%"
         }
     },
     {
@@ -6591,7 +7227,11 @@
             "Country": "Spain",
             "Language": "Spanish",
             "Budget": "€4 million",
-            "Box office": "$8.9 million"
+            "Box office": "$8.9 million",
+            "ImdbRating": "7.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "33,506",
+            "Rotten Tomatoes": "92%"
         }
     },
     {
@@ -6639,7 +7279,11 @@
             "Country": "France",
             "Language": "French",
             "Budget": "$10.7 million",
-            "Box office": "$8.2 million"
+            "Box office": "$8.2 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "N/A",
+            "ImdbVotes": "7",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -6655,7 +7299,11 @@
             ],
             "Running time": "134 minutes",
             "Country": "Turkey",
-            "Language": "Turkish"
+            "Language": "Turkish",
+            "ImdbRating": "7.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "34,052",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -6691,7 +7339,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$6.5million",
-            "Box office": "$257.6million"
+            "Box office": "$257.6million",
+            "ImdbRating": "5.4",
+            "MetaScore": "37",
+            "ImdbVotes": "155,935",
+            "Rotten Tomatoes": "29%"
         }
     },
     {
@@ -6738,7 +7390,11 @@
                 "India"
             ],
             "Language": "English",
-            "Box office": "$3.2 million"
+            "Box office": "$3.2 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "65",
+            "ImdbVotes": "28,577",
+            "Rotten Tomatoes": "87%"
         }
     },
     {
@@ -6786,7 +7442,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$45–50 million",
-            "Box office": "$84.4 million"
+            "Box office": "$84.4 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "48",
+            "ImdbVotes": "189,474",
+            "Rotten Tomatoes": "49%"
         }
     },
     {
@@ -6834,7 +7494,11 @@
             ],
             "Running time": "104 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "5.6",
+            "MetaScore": "N/A",
+            "ImdbVotes": "733",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -6885,7 +7549,11 @@
             ],
             "Language": "English",
             "Budget": "$165 million",
-            "Box office": "$701.8 million"
+            "Box office": "$701.8 million",
+            "ImdbRating": "8.6",
+            "MetaScore": "74",
+            "ImdbVotes": "1,733,825",
+            "Rotten Tomatoes": "72%"
         }
     },
     {
@@ -6935,7 +7603,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$42 million",
-            "Box office": "$107.7 million"
+            "Box office": "$107.7 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "40",
+            "ImdbVotes": "170,274",
+            "Rotten Tomatoes": "35%"
         }
     },
     {
@@ -6978,7 +7650,11 @@
             "Country": "Spain",
             "Language": "Spanish",
             "Budget": "$12.5 million",
-            "Box office": "€4.9 million ($5.5 million)"
+            "Box office": "€4.9 million ($5.5 million)",
+            "ImdbRating": "6.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,968",
+            "Rotten Tomatoes": "60%"
         }
     },
     {
@@ -7012,7 +7688,11 @@
             "Running time": "102 minutes",
             "Country": "United Kingdom",
             "Language": "English",
-            "Box office": "$4.8 million"
+            "Box office": "$4.8 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "52",
+            "ImdbVotes": "3,912",
+            "Rotten Tomatoes": "79%"
         }
     },
     {
@@ -7056,7 +7736,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$20million",
-            "Box office": "$14.7million"
+            "Box office": "$14.7million",
+            "ImdbRating": "6.6",
+            "MetaScore": "81",
+            "ImdbVotes": "103,543",
+            "Rotten Tomatoes": "73%"
         }
     },
     {
@@ -7087,7 +7771,11 @@
             "Running time": "139 minutes",
             "Country": "Germany",
             "Language": "German",
-            "Box office": "US$30.4 million"
+            "Box office": "US$30.4 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "6,577",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -7144,7 +7832,11 @@
             ],
             "Language": "English",
             "Budget": "$250–300 million",
-            "Box office": "$962.2 million"
+            "Box office": "$962.2 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "59",
+            "ImdbVotes": "514,760",
+            "Rotten Tomatoes": "59%"
         }
     },
     {
@@ -7186,7 +7878,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$59 million",
-            "Box office": "$547.4 million"
+            "Box office": "$547.4 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "72",
+            "ImdbVotes": "476,592",
+            "Rotten Tomatoes": "72%"
         }
     },
     {
@@ -7230,7 +7926,11 @@
             ],
             "Language": "English",
             "Budget": "$176–210million",
-            "Box office": "$183.9million"
+            "Box office": "$183.9million",
+            "ImdbRating": "5.3",
+            "MetaScore": "40",
+            "ImdbVotes": "187,640",
+            "Rotten Tomatoes": "28%"
         }
     },
     {
@@ -7251,7 +7951,11 @@
             ],
             "Running time": "109 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "5.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,549",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -7290,7 +7994,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50.1-65 million",
-            "Box office": "$158.8 million"
+            "Box office": "$158.8 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "56",
+            "ImdbVotes": "242,435",
+            "Rotten Tomatoes": "56/100"
         }
     },
     {
@@ -7331,7 +8039,11 @@
                 "Spanish",
                 "German"
             ],
-            "Box office": "€10.1 million"
+            "Box office": "€10.1 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "5,170",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -7372,7 +8084,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50–61.6 million",
-            "Box office": "$71.56 million"
+            "Box office": "$71.56 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "59",
+            "ImdbVotes": "108,543",
+            "Rotten Tomatoes": "59%"
         }
     },
     {
@@ -7404,7 +8120,11 @@
                 "26March2015"
             ],
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "5.6",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,092",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -7450,7 +8170,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40-44 million",
-            "Box office": "$111.8 million"
+            "Box office": "$111.8 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "34",
+            "ImdbVotes": "134,789",
+            "Rotten Tomatoes": "28%"
         }
     },
     {
@@ -7502,7 +8226,11 @@
             "Languages": [
                 "German",
                 "English"
-            ]
+            ],
+            "ImdbRating": "5.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "939",
+            "Rotten Tomatoes": "13%"
         }
     },
     {
@@ -7545,7 +8273,11 @@
             "Running time": "95 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$615,500"
+            "Box office": "$615,500",
+            "ImdbRating": "5.7",
+            "MetaScore": "42",
+            "ImdbVotes": "18,093",
+            "Rotten Tomatoes": "31%"
         }
     },
     {
@@ -7599,7 +8331,11 @@
                 "Turkish"
             ],
             "Budget": "$22.5 million",
-            "Box office": "$38.2 million"
+            "Box office": "$38.2 million",
+            "ImdbRating": "7.0",
+            "MetaScore": "50",
+            "ImdbVotes": "74,915",
+            "Rotten Tomatoes": "62%"
         }
     },
     {
@@ -7638,7 +8374,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35 million",
-            "Box office": "$51.4 million"
+            "Box office": "$51.4 million",
+            "ImdbRating": "5.1",
+            "MetaScore": "31",
+            "ImdbVotes": "51,232",
+            "Rotten Tomatoes": "8%"
         }
     },
     {
@@ -7657,7 +8397,11 @@
             ],
             "Running time": "93 minutes",
             "Country": "Spain",
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "6.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,469",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -7706,7 +8450,11 @@
             "Country": "Australia",
             "Language": "English",
             "Budget": "$154.6–185.1 million",
-            "Box office": "$374.7 million"
+            "Box office": "$374.7 million",
+            "ImdbRating": "8.1",
+            "MetaScore": "90",
+            "ImdbVotes": "970,854",
+            "Rotten Tomatoes": "97%"
         }
     },
     {
@@ -7746,7 +8494,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$110million",
-            "Box office": "$474million"
+            "Box office": "$474million",
+            "ImdbRating": "6.0",
+            "MetaScore": "43",
+            "ImdbVotes": "233,364",
+            "Rotten Tomatoes": "48%"
         }
     },
     {
@@ -7789,7 +8541,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$27–39 million",
-            "Box office": "$49.3 million"
+            "Box office": "$49.3 million",
+            "ImdbRating": "8.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "167,209",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -7829,7 +8585,11 @@
             "Running time": "87 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$74,709"
+            "Box office": "$74,709",
+            "ImdbRating": "7.0",
+            "MetaScore": "63",
+            "ImdbVotes": "1,716",
+            "Rotten Tomatoes": "82%"
         }
     },
     {
@@ -7865,7 +8625,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$20 million",
-            "Box office": "$44 million"
+            "Box office": "$44 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "47",
+            "ImdbVotes": "26,905",
+            "Rotten Tomatoes": "38%"
         }
     },
     {
@@ -7908,7 +8672,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$14.8 million",
-            "Box office": "$122.5 million"
+            "Box office": "$122.5 million",
+            "ImdbRating": "5.6",
+            "MetaScore": "60",
+            "ImdbVotes": "55,889",
+            "Rotten Tomatoes": "65%"
         }
     },
     {
@@ -7955,7 +8723,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$100,000",
-            "Box office": "$43 million"
+            "Box office": "$43 million",
+            "ImdbRating": "4.2",
+            "MetaScore": "30",
+            "ImdbVotes": "20,513",
+            "Rotten Tomatoes": "14%"
         }
     },
     {
@@ -7998,7 +8770,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$31 million",
-            "Box office": "$107.2 million"
+            "Box office": "$107.2 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "34",
+            "ImdbVotes": "110,108",
+            "Rotten Tomatoes": "27%"
         }
     },
     {
@@ -8050,7 +8826,11 @@
             ],
             "Language": "English",
             "Budget": "$75–84 million",
-            "Box office": "$107million"
+            "Box office": "$107million",
+            "ImdbRating": "7.2",
+            "MetaScore": "56",
+            "ImdbVotes": "302,426",
+            "Rotten Tomatoes": "68%"
         }
     },
     {
@@ -8101,7 +8881,11 @@
             ],
             "Language": "English",
             "Budget": "$2million",
-            "Box office": "$11.1 million"
+            "Box office": "$11.1 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "46",
+            "ImdbVotes": "38,459",
+            "Rotten Tomatoes": "39%"
         }
     },
     {
@@ -8132,7 +8916,11 @@
             "Country": "Spain",
             "Language": "Spanish",
             "Budget": "$2.2 million",
-            "Box office": "$3 million"
+            "Box office": "$3 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "4,201",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -8162,7 +8950,11 @@
             "Running time": "84 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$310,273"
+            "Box office": "$310,273",
+            "ImdbRating": "6.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "21,646",
+            "Rotten Tomatoes": "80%"
         }
     },
     {
@@ -8211,7 +9003,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$53 million",
-            "Box office": "$99.8 million"
+            "Box office": "$99.8 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "68",
+            "ImdbVotes": "179,206",
+            "Rotten Tomatoes": "73%"
         }
     },
     {
@@ -8243,7 +9039,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35 million",
-            "Box office": "$194.6 million"
+            "Box office": "$194.6 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "51",
+            "ImdbVotes": "247,730",
+            "Rotten Tomatoes": "59%"
         }
     },
     {
@@ -8285,7 +9085,11 @@
                 "France"
             ],
             "Language": "Spanish",
-            "Box office": "$3,532,967"
+            "Box office": "$3,532,967",
+            "ImdbRating": "6.6",
+            "MetaScore": "N/A",
+            "ImdbVotes": "10,148",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -8329,7 +9133,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$150 million",
-            "Box office": "$128.4 million"
+            "Box office": "$128.4 million",
+            "ImdbRating": "5.7",
+            "MetaScore": "36",
+            "ImdbVotes": "63,724",
+            "Rotten Tomatoes": "27%"
         }
     },
     {
@@ -8378,7 +9186,11 @@
             "Budget": "$8million",
             "Box office": [
                 "MX$54.1million"
-            ]
+            ],
+            "ImdbRating": "4.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "573",
+            "Rotten Tomatoes": "14%"
         }
     },
     {
@@ -8419,7 +9231,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$28 million",
-            "Box office": "$8.6 million"
+            "Box office": "$8.6 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "53",
+            "ImdbVotes": "22,273",
+            "Rotten Tomatoes": "37%"
         }
     },
     {
@@ -8476,7 +9292,11 @@
                 "Spanish"
             ],
             "Budget": "$26 million",
-            "Box office": "$28 million"
+            "Box office": "$28 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "55",
+            "ImdbVotes": "37,890",
+            "Rotten Tomatoes": "48%"
         }
     },
     {
@@ -8526,7 +9346,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35–40 million",
-            "Box office": "$173.6 million"
+            "Box office": "$173.6 million",
+            "ImdbRating": "7.6",
+            "MetaScore": "82",
+            "ImdbVotes": "268,377",
+            "Rotten Tomatoes": "95%"
         }
     },
     {
@@ -8587,7 +9411,11 @@
                 "Spanish"
             ],
             "Budget": "$100 million",
-            "Box office": "$93.9 million"
+            "Box office": "$93.9 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "47",
+            "ImdbVotes": "136,778",
+            "Rotten Tomatoes": "42%"
         }
     },
     {
@@ -8627,7 +9455,11 @@
             ],
             "Running time": "92 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "6.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,304",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -8687,7 +9519,11 @@
             ],
             "Language": "English",
             "Budget": "$105 million",
-            "Box office": "$133.7 million"
+            "Box office": "$133.7 million",
+            "ImdbRating": "7.2",
+            "MetaScore": "58",
+            "ImdbVotes": "177,967",
+            "Rotten Tomatoes": "70%"
         }
     },
     {
@@ -8732,7 +9568,11 @@
                 "Aragonese"
             ],
             "Budget": "€10 million",
-            "Box office": "$18.4 million"
+            "Box office": "$18.4 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "11,755",
+            "Rotten Tomatoes": "83%"
         }
     },
     {
@@ -8784,7 +9624,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$38 million",
-            "Box office": "$112.3 million"
+            "Box office": "$112.3 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "51",
+            "ImdbVotes": "87,692",
+            "Rotten Tomatoes": "46%"
         }
     },
     {
@@ -8822,7 +9666,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$18 million",
-            "Box office": "$7.68 million"
+            "Box office": "$7.68 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "76",
+            "ImdbVotes": "80,365",
+            "Rotten Tomatoes": "83%"
         }
     },
     {
@@ -8871,7 +9719,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$250–300 million",
-            "Box office": "$873.6 million"
+            "Box office": "$873.6 million",
+            "ImdbRating": "6.4",
+            "MetaScore": "44",
+            "ImdbVotes": "686,957",
+            "Rotten Tomatoes": "29%"
         }
     },
     {
@@ -8906,7 +9758,11 @@
             "Running time": "96 minutes",
             "Country": "Spain",
             "Language": "Spanish",
-            "Box office": "$22.5 million"
+            "Box office": "$22.5 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "73",
+            "ImdbVotes": "31,507",
+            "Rotten Tomatoes": "83%"
         }
     },
     {
@@ -8953,7 +9809,11 @@
             "Country": "United Kingdom",
             "Language": "English",
             "Budget": "$10 million",
-            "Box office": "$12.3 million"
+            "Box office": "$12.3 million",
+            "ImdbRating": "7.2",
+            "MetaScore": "56",
+            "ImdbVotes": "56,686",
+            "Rotten Tomatoes": "63%"
         }
     },
     {
@@ -9002,7 +9862,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$20 million",
-            "Box office": "$55 million"
+            "Box office": "$55 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "67",
+            "ImdbVotes": "15,139",
+            "Rotten Tomatoes": "90%"
         }
     },
     {
@@ -9022,7 +9886,11 @@
                 "Argentina",
                 "Spain"
             ],
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "7.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "13,982",
+            "Rotten Tomatoes": "83%"
         }
     },
     {
@@ -9071,7 +9939,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$15 million",
-            "Box office": "$20.6 million"
+            "Box office": "$20.6 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "63",
+            "ImdbVotes": "48,527",
+            "Rotten Tomatoes": "78%"
         }
     },
     {
@@ -9105,7 +9977,11 @@
             "Running time": "110 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "$5.5 million"
+            "Box office": "$5.5 million",
+            "ImdbRating": "4.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,885",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -9150,7 +10026,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$62.8 million"
+            "Box office": "$62.8 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "70",
+            "ImdbVotes": "315,115",
+            "Rotten Tomatoes": "91%"
         }
     },
     {
@@ -9190,7 +10070,11 @@
             ],
             "Language": "English",
             "Budget": "$20 million",
-            "Box office": "$208.3 million"
+            "Box office": "$208.3 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "51",
+            "ImdbVotes": "244,643",
+            "Rotten Tomatoes": "54%"
         }
     },
     {
@@ -9241,7 +10125,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40million",
-            "Box office": "$321.8million"
+            "Box office": "$321.8million",
+            "ImdbRating": "7.3",
+            "MetaScore": "65",
+            "ImdbVotes": "262,135",
+            "Rotten Tomatoes": "80%"
         }
     },
     {
@@ -9299,7 +10187,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50million",
-            "Box office": "$217million"
+            "Box office": "$217million",
+            "ImdbRating": "6.3",
+            "MetaScore": "52",
+            "ImdbVotes": "185,280",
+            "Rotten Tomatoes": "71%"
         }
     },
     {
@@ -9354,7 +10246,11 @@
             ],
             "Language": "English",
             "Budget": "$180 million",
-            "Box office": "$356.7 million"
+            "Box office": "$356.7 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "44",
+            "ImdbVotes": "174,966",
+            "Rotten Tomatoes": "35%"
         }
     },
     {
@@ -9396,7 +10292,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$4.9 million",
-            "Box office": "$148.9 million"
+            "Box office": "$148.9 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "58",
+            "ImdbVotes": "127,025",
+            "Rotten Tomatoes": "75%"
         }
     },
     {
@@ -9436,7 +10336,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$175 million",
-            "Box office": "$746.8 million"
+            "Box office": "$746.8 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "40",
+            "ImdbVotes": "674,164",
+            "Rotten Tomatoes": "26%"
         }
     },
     {
@@ -9478,7 +10382,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$86.2 million"
+            "Box office": "$86.2 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "57",
+            "ImdbVotes": "209,131",
+            "Rotten Tomatoes": "61%"
         }
     },
     {
@@ -9526,7 +10434,11 @@
                 "Japanese"
             ],
             "Budget": "$8.62 million",
-            "Box office": "$55.3 million"
+            "Box office": "$55.3 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "78",
+            "ImdbVotes": "9,915",
+            "Rotten Tomatoes": "100%"
         }
     },
     {
@@ -9569,7 +10481,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$60 million",
-            "Box office": "$240.8 million"
+            "Box office": "$240.8 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "74",
+            "ImdbVotes": "266,272",
+            "Rotten Tomatoes": "85%"
         }
     },
     {
@@ -9608,7 +10524,11 @@
             ],
             "Running time": "107 minutes",
             "Country": "Germany",
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "6.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,005",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -9654,7 +10574,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$70 million",
-            "Box office": "$183.4 million"
+            "Box office": "$183.4 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "56",
+            "ImdbVotes": "61,666",
+            "Rotten Tomatoes": "65%"
         }
     },
     {
@@ -9691,7 +10615,11 @@
             "Running time": "111 minutes",
             "Country": "United Kingdom",
             "Language": "English",
-            "Box office": "$4.08 million"
+            "Box office": "$4.08 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "67",
+            "ImdbVotes": "59,214",
+            "Rotten Tomatoes": "85%"
         }
     },
     {
@@ -9729,7 +10657,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$44 million",
-            "Box office": "$155.2 million"
+            "Box office": "$155.2 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "51",
+            "ImdbVotes": "289,059",
+            "Rotten Tomatoes": "51%"
         }
     },
     {
@@ -9778,7 +10710,11 @@
             ],
             "Running time": "125 minutes",
             "Country": "Spain",
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "7.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "10,809",
+            "Rotten Tomatoes": "100%"
         }
     },
     {
@@ -9823,7 +10759,11 @@
             "Running time": "132 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "$11,757,642"
+            "Box office": "$11,757,642",
+            "ImdbRating": "6.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "997",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -9869,7 +10809,11 @@
             ],
             "Language": "English",
             "Budget": "$175–200 million",
-            "Box office": "$814 million"
+            "Box office": "$814 million",
+            "ImdbRating": "7.2",
+            "MetaScore": "66",
+            "ImdbVotes": "461,700",
+            "Rotten Tomatoes": "74%"
         }
     },
     {
@@ -9896,7 +10840,11 @@
                 "2December2016"
             ],
             "Country": "Spain",
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -9926,7 +10874,11 @@
             "Running time": "103 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "()"
+            "Box office": "()",
+            "ImdbRating": "4.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "39",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -9973,7 +10925,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$36–40.3 million",
-            "Box office": "$88.5 million"
+            "Box office": "$88.5 million",
+            "ImdbRating": "6.7",
+            "MetaScore": "23",
+            "ImdbVotes": "99,268",
+            "Rotten Tomatoes": "13%"
         }
     },
     {
@@ -10018,7 +10974,11 @@
                 "$90 million",
                 "$65 million"
             ],
-            "Box office": "$22.7 million"
+            "Box office": "$22.7 million",
+            "ImdbRating": "6.4",
+            "MetaScore": "49",
+            "ImdbVotes": "56,818",
+            "Rotten Tomatoes": "34%"
         }
     },
     {
@@ -10054,7 +11014,11 @@
             "Running time": "96 minutes",
             "Country": "Germany",
             "Language": "German",
-            "Box office": "$9,193,243"
+            "Box office": "$9,193,243",
+            "ImdbRating": "5.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "3,125",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10096,7 +11060,11 @@
             "Country": "Spain",
             "Language": "Spanish",
             "Budget": "€4 million($4.5 million)",
-            "Box office": "$30.7 million"
+            "Box office": "$30.7 million",
+            "ImdbRating": "8.0",
+            "MetaScore": "N/A",
+            "ImdbVotes": "170,830",
+            "Rotten Tomatoes": "70%"
         }
     },
     {
@@ -10157,7 +11125,11 @@
             ],
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$312 million"
+            "Box office": "$312 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "75",
+            "ImdbVotes": "146,880",
+            "Rotten Tomatoes": "90%"
         }
     },
     {
@@ -10209,7 +11181,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$22–25million",
-            "Box office": "$41.1million"
+            "Box office": "$41.1million",
+            "ImdbRating": "5.6",
+            "MetaScore": "37",
+            "ImdbVotes": "42,548",
+            "Rotten Tomatoes": "25%"
         }
     },
     {
@@ -10237,7 +11213,11 @@
                 "Korean",
                 "English"
             ],
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "6.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "911",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10266,7 +11246,11 @@
                 "24February2017"
             ],
             "Country": "India",
-            "Language": "Tamil"
+            "Language": "Tamil",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10318,7 +11302,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$185million",
-            "Box office": "$566.7million"
+            "Box office": "$566.7million",
+            "ImdbRating": "6.6",
+            "MetaScore": "62",
+            "ImdbVotes": "311,223",
+            "Rotten Tomatoes": "75%"
         }
     },
     {
@@ -10352,7 +11340,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25 million",
-            "Box office": "$26.8 million"
+            "Box office": "$26.8 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "28",
+            "ImdbVotes": "46,638",
+            "Rotten Tomatoes": "19%"
         }
     },
     {
@@ -10390,7 +11382,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25 million",
-            "Box office": "$84.9 million"
+            "Box office": "$84.9 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "50",
+            "ImdbVotes": "84,421",
+            "Rotten Tomatoes": "82%"
         }
     },
     {
@@ -10420,7 +11416,11 @@
             "Running time": "72 minutes",
             "Country": "United States",
             "Language": "English",
-            "Box office": "$4,382"
+            "Box office": "$4,382",
+            "ImdbRating": "4.4",
+            "MetaScore": "N/A",
+            "ImdbVotes": "3,897",
+            "Rotten Tomatoes": "0%"
         }
     },
     {
@@ -10450,7 +11450,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$12–21.5 million",
-            "Box office": "$17.8 million"
+            "Box office": "$17.8 million",
+            "ImdbRating": "6.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "19,291",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10493,7 +11497,11 @@
                 "United Kingdom"
             ],
             "Language": "Japanese",
-            "Box office": "$8.4 million"
+            "Box office": "$8.4 million",
+            "ImdbRating": "6.7",
+            "MetaScore": "72",
+            "ImdbVotes": "17,586",
+            "Rotten Tomatoes": "86%"
         }
     },
     {
@@ -10529,7 +11537,11 @@
             ],
             "Running time": "85 minutes",
             "Country": "United States",
-            "Language": "English"
+            "Language": "English",
+            "ImdbRating": "5.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,475",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10588,7 +11600,11 @@
             ],
             "Language": "English",
             "Budget": "$175million",
-            "Box office": "$148.7million"
+            "Box office": "$148.7million",
+            "ImdbRating": "6.7",
+            "MetaScore": "41",
+            "ImdbVotes": "213,512",
+            "Rotten Tomatoes": "31%"
         }
     },
     {
@@ -10625,7 +11641,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$10 million",
-            "Box office": "$61.6 million"
+            "Box office": "$61.6 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "52",
+            "ImdbVotes": "38,158",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -10682,7 +11702,11 @@
                 "English"
             ],
             "Budget": "$6 million",
-            "Box office": "$5.3 million"
+            "Box office": "$5.3 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "63",
+            "ImdbVotes": "4,982",
+            "Rotten Tomatoes": "65%"
         }
     },
     {
@@ -10733,7 +11757,11 @@
             ],
             "Language": "English",
             "Budget": "$120–150million",
-            "Box office": "$822.8million"
+            "Box office": "$822.8million",
+            "ImdbRating": "7.4",
+            "MetaScore": "76",
+            "ImdbVotes": "638,908",
+            "Rotten Tomatoes": "93%"
         }
     },
     {
@@ -10788,7 +11816,11 @@
             "Running time": "118 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "$20.21 million"
+            "Box office": "$20.21 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,046",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10842,7 +11874,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$34.2 million"
+            "Box office": "$34.2 million",
+            "ImdbRating": "5.6",
+            "MetaScore": "30",
+            "ImdbVotes": "44,158",
+            "Rotten Tomatoes": "20%"
         }
     },
     {
@@ -10884,7 +11920,11 @@
             "Running time": "131 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": "$47.5 million"
+            "Box office": "$47.5 million",
+            "ImdbRating": "8.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "10,670",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -10937,7 +11977,11 @@
             ],
             "Language": "English",
             "Budget": "$100–150 million",
-            "Box office": "$527 million"
+            "Box office": "$527 million",
+            "ImdbRating": "7.8",
+            "MetaScore": "94",
+            "ImdbVotes": "633,716",
+            "Rotten Tomatoes": "92%"
         }
     },
     {
@@ -10976,7 +12020,11 @@
             "Running time": "119 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "NAN",
+            "MetaScore": "NAN",
+            "ImdbVotes": "NAN",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -11013,7 +12061,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$15million",
-            "Box office": "$306.5million"
+            "Box office": "$306.5million",
+            "ImdbRating": "6.5",
+            "MetaScore": "62",
+            "ImdbVotes": "130,242",
+            "Rotten Tomatoes": "71%"
         }
     },
     {
@@ -11069,7 +12121,11 @@
             ],
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$68.7 million"
+            "Box office": "$68.7 million",
+            "ImdbRating": "5.5",
+            "MetaScore": "36",
+            "ImdbVotes": "6,588",
+            "Rotten Tomatoes": "14%"
         }
     },
     {
@@ -11118,7 +12174,11 @@
             ],
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$26.4 million"
+            "Box office": "$26.4 million",
+            "ImdbRating": "4.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "4,810",
+            "Rotten Tomatoes": "10%"
         }
     },
     {
@@ -11161,7 +12221,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35–40 million",
-            "Box office": "$701.8 million"
+            "Box office": "$701.8 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "69",
+            "ImdbVotes": "517,511",
+            "Rotten Tomatoes": "86%"
         }
     },
     {
@@ -11240,7 +12304,11 @@
             ],
             "Language": "English",
             "Budget": "$70 million",
-            "Box office": "$123.1 million"
+            "Box office": "$123.1 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "55",
+            "ImdbVotes": "25,730",
+            "Rotten Tomatoes": "56%"
         }
     },
     {
@@ -11297,7 +12365,11 @@
             "Running time": "163 minutes",
             "Country": "United States",
             "Budget": "$150–185million",
-            "Box office": "$259.3million"
+            "Box office": "$259.3million",
+            "ImdbRating": "8.0",
+            "MetaScore": "81",
+            "ImdbVotes": "541,797",
+            "Rotten Tomatoes": "88%"
         }
     },
     {
@@ -11335,7 +12407,11 @@
             "Running time": "90 minutes",
             "Country": "Spain",
             "Language": "Spanish",
-            "Box office": "$7.2 million"
+            "Box office": "$7.2 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "18,619",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -11379,7 +12455,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$120–130 million",
-            "Box office": "$221.6 million"
+            "Box office": "$221.6 million",
+            "ImdbRating": "5.3",
+            "MetaScore": "21",
+            "ImdbVotes": "105,878",
+            "Rotten Tomatoes": "16%"
         }
     },
     {
@@ -11418,7 +12498,11 @@
                 "Korean",
                 "English"
             ],
-            "Box office": "$16.2million"
+            "Box office": "$16.2million",
+            "ImdbRating": "8.3",
+            "MetaScore": "N/A",
+            "ImdbVotes": "39,045",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -11453,7 +12537,11 @@
             ],
             "Running time": "113 minutes",
             "Country": "Japan",
-            "Language": "Japanese"
+            "Language": "Japanese",
+            "ImdbRating": "6.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,128",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -11513,7 +12601,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$300 million",
-            "Box office": "$657.9 million"
+            "Box office": "$657.9 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "45",
+            "ImdbVotes": "442,783",
+            "Rotten Tomatoes": "39%"
         }
     },
     {
@@ -11550,7 +12642,11 @@
                 "France"
             ],
             "Language": "German",
-            "Box office": "$5 million"
+            "Box office": "$5 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "65",
+            "ImdbVotes": "32,566",
+            "Rotten Tomatoes": "76%"
         }
     },
     {
@@ -11600,7 +12696,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$10 million",
-            "Box office": "$29.8 million"
+            "Box office": "$29.8 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "76",
+            "ImdbVotes": "151,127",
+            "Rotten Tomatoes": "91%"
         }
     },
     {
@@ -11635,7 +12735,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25 million",
-            "Box office": "$15.9 million"
+            "Box office": "$15.9 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "45",
+            "ImdbVotes": "28,454",
+            "Rotten Tomatoes": "32%"
         }
     },
     {
@@ -11663,7 +12767,11 @@
             "Languages": [
                 "German",
                 "English"
-            ]
+            ],
+            "ImdbRating": "5.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "532",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -11707,7 +12815,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25 million",
-            "Box office": "$25.6 million"
+            "Box office": "$25.6 million",
+            "ImdbRating": "5.5",
+            "MetaScore": "22",
+            "ImdbVotes": "19,722",
+            "Rotten Tomatoes": "17%"
         }
     },
     {
@@ -11744,7 +12856,11 @@
             "Running time": "113 minutes",
             "Country": "Italy",
             "Language": "Italian",
-            "Box office": "$7.2 million"
+            "Box office": "$7.2 million",
+            "ImdbRating": "5.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,659",
+            "Rotten Tomatoes": "86%"
         }
     },
     {
@@ -11791,7 +12907,11 @@
             ],
             "Language": "English",
             "Budget": "$40 million",
-            "Box office": "$228 million"
+            "Box office": "$228 million",
+            "ImdbRating": "7.8",
+            "MetaScore": "88",
+            "ImdbVotes": "73,726",
+            "Rotten Tomatoes": "99%"
         }
     },
     {
@@ -11843,7 +12963,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$35 million",
-            "Box office": "$71.1 million"
+            "Box office": "$71.1 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "54",
+            "ImdbVotes": "78,264",
+            "Rotten Tomatoes": "50%"
         }
     },
     {
@@ -11885,7 +13009,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$57.1 million"
+            "Box office": "$57.1 million",
+            "ImdbRating": "5.3",
+            "MetaScore": "45",
+            "ImdbVotes": "32,793",
+            "Rotten Tomatoes": "23%"
         }
     },
     {
@@ -11935,7 +13063,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$37 million",
-            "Box office": "$117.7 million"
+            "Box office": "$117.7 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "66",
+            "ImdbVotes": "229,753",
+            "Rotten Tomatoes": "85%"
         }
     },
     {
@@ -11985,7 +13117,11 @@
             ],
             "Language": "English",
             "Budget": "$90–106 million",
-            "Box office": "$274.7 million"
+            "Box office": "$274.7 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "48",
+            "ImdbVotes": "210,822",
+            "Rotten Tomatoes": "53%"
         }
     },
     {
@@ -12035,7 +13171,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$155–175 million",
-            "Box office": "$582.9 million"
+            "Box office": "$582.9 million",
+            "ImdbRating": "7.4",
+            "MetaScore": "64",
+            "ImdbVotes": "422,237",
+            "Rotten Tomatoes": "72%"
         }
     },
     {
@@ -12091,7 +13231,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$120–140 million",
-            "Box office": "$428 million"
+            "Box office": "$428 million",
+            "ImdbRating": "6.1",
+            "MetaScore": "45",
+            "ImdbVotes": "163,049",
+            "Rotten Tomatoes": "51%"
         }
     },
     {
@@ -12132,7 +13276,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$65.9 million"
+            "Box office": "$65.9 million",
+            "ImdbRating": "5.5",
+            "MetaScore": "46",
+            "ImdbVotes": "37,033",
+            "Rotten Tomatoes": "38%"
         }
     },
     {
@@ -12168,7 +13316,11 @@
             "Running time": "110 minutes",
             "Country": "Japan",
             "Language": "Japanese",
-            "Box office": ""
+            "Box office": "",
+            "ImdbRating": "6.8",
+            "MetaScore": "N/A",
+            "ImdbVotes": "335",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -12214,7 +13366,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$70 million",
-            "Box office": "$297.8 million"
+            "Box office": "$297.8 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "21",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -12257,7 +13413,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$28 million",
-            "Box office": "$78.1 million"
+            "Box office": "$78.1 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "56",
+            "ImdbVotes": "130,525",
+            "Rotten Tomatoes": "56%"
         }
     },
     {
@@ -12286,13 +13446,19 @@
             "Distributed by": [
                 "Netflix"
             ],
-            "Release dates": ["July20,2018"],
+            "Release dates": [
+                "July20,2018"
+            ],
             "Country": "Japan",
             "Languages": [
                 "Japanese",
                 "English"
             ],
-            "Box office": "¥493,052,600()"
+            "Box office": "¥493,052,600()",
+            "ImdbRating": "8.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "52,039",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -12341,7 +13507,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$10 million",
-            "Box office": "$52.1 million"
+            "Box office": "$52.1 million",
+            "ImdbRating": "6.7",
+            "MetaScore": "69",
+            "ImdbVotes": "19,124",
+            "Rotten Tomatoes": "91%"
         }
     },
     {
@@ -12391,7 +13561,11 @@
             ],
             "Language": "English",
             "Budget": "$130–178 million",
-            "Box office": "$530.2 million"
+            "Box office": "$530.2 million",
+            "ImdbRating": "5.6",
+            "MetaScore": "46",
+            "ImdbVotes": "167,939",
+            "Rotten Tomatoes": "45%"
         }
     },
     {
@@ -12437,7 +13611,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$30 million",
-            "Box office": "$238.5 million"
+            "Box office": "$238.5 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "74",
+            "ImdbVotes": "167,016",
+            "Rotten Tomatoes": "91%"
         }
     },
     {
@@ -12479,7 +13657,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$22million",
-            "Box office": "$365.6million"
+            "Box office": "$365.6million",
+            "ImdbRating": "5.3",
+            "MetaScore": "46",
+            "ImdbVotes": "136,853",
+            "Rotten Tomatoes": "24%"
         }
     },
     {
@@ -12531,7 +13713,11 @@
                 "Mexico"
             ],
             "Language": "Spanish",
-            "Box office": "$1.6 million"
+            "Box office": "$1.6 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "65",
+            "ImdbVotes": "35,501",
+            "Rotten Tomatoes": "92%"
         }
     },
     {
@@ -12588,7 +13774,11 @@
             ],
             "Running time": "115 minutes",
             "Country": "Japan",
-            "Language": "Japanese"
+            "Language": "Japanese",
+            "ImdbRating": "6.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "316",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -12641,7 +13831,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$80 million",
-            "Box office": "$214 million"
+            "Box office": "$214 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "60",
+            "ImdbVotes": "38,893",
+            "Rotten Tomatoes": "76%"
         }
     },
     {
@@ -12676,7 +13870,11 @@
                 "Spain",
                 "France"
             ],
-            "Language": "Spanish"
+            "Language": "Spanish",
+            "ImdbRating": "5.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "17",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -12722,7 +13920,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$36 million",
-            "Box office": "$436.2 million"
+            "Box office": "$436.2 million",
+            "ImdbRating": "7.6",
+            "MetaScore": "88",
+            "ImdbVotes": "373,590",
+            "Rotten Tomatoes": "90%"
         }
     },
     {
@@ -12767,7 +13969,11 @@
             ],
             "Language": "English",
             "Budget": "$200 million",
-            "Box office": "$654.9 million"
+            "Box office": "$654.9 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "52",
+            "ImdbVotes": "269,289",
+            "Rotten Tomatoes": "36%"
         }
     },
     {
@@ -12827,7 +14033,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$214.1 million"
+            "Box office": "$214.1 million",
+            "ImdbRating": "7.1",
+            "MetaScore": "66",
+            "ImdbVotes": "121,243",
+            "Rotten Tomatoes": "83%"
         }
     },
     {
@@ -12873,7 +14083,11 @@
                 "United Kingdom",
                 "United States"
             ],
-            "Language": "English"
+            "Language": "English",
+            "ImdbRating": "6.5",
+            "MetaScore": "51",
+            "ImdbVotes": "61,330",
+            "Rotten Tomatoes": "52%"
         }
     },
     {
@@ -12918,7 +14132,11 @@
                 "United States"
             ],
             "Language": "English",
-            "Box office": "$138,844"
+            "Box office": "$138,844",
+            "ImdbRating": "6.5",
+            "MetaScore": "N/A",
+            "ImdbVotes": "6,577",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -12950,7 +14168,11 @@
                 "United Kingdom"
             ],
             "Language": "English",
-            "Box office": "$20.4 million"
+            "Box office": "$20.4 million",
+            "ImdbRating": "8.2",
+            "MetaScore": "91",
+            "ImdbVotes": "34,020",
+            "Rotten Tomatoes": "99%"
         }
     },
     {
@@ -12993,7 +14215,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$50 million",
-            "Box office": "$174.8 million"
+            "Box office": "$174.8 million",
+            "ImdbRating": "7.0",
+            "MetaScore": "58",
+            "ImdbVotes": "134,146",
+            "Rotten Tomatoes": "70%"
         }
     },
     {
@@ -13039,7 +14265,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$160–200 million",
-            "Box office": "$1.148 billion"
+            "Box office": "$1.148 billion",
+            "ImdbRating": "6.8",
+            "MetaScore": "55",
+            "ImdbVotes": "450,915",
+            "Rotten Tomatoes": "65%"
         }
     },
     {
@@ -13081,7 +14311,11 @@
             ],
             "Language": "Mandarin",
             "Budget": "CN¥80 millionUS$11.2 million",
-            "Box office": "CN¥447 millionUS$61,631,778"
+            "Box office": "CN¥447 millionUS$61,631,778",
+            "ImdbRating": "7.0",
+            "MetaScore": "60",
+            "ImdbVotes": "4,147",
+            "Rotten Tomatoes": "70%"
         }
     },
     {
@@ -13143,7 +14377,11 @@
             ],
             "Language": "English",
             "Budget": "$99 million",
-            "Box office": "$192.5 million"
+            "Box office": "$192.5 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "65",
+            "ImdbVotes": "64,458",
+            "Rotten Tomatoes": "84%"
         }
     },
     {
@@ -13188,7 +14426,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$31 million",
-            "Box office": "$48.8 million"
+            "Box office": "$48.8 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "60",
+            "ImdbVotes": "69,030",
+            "Rotten Tomatoes": "70%"
         }
     },
     {
@@ -13232,7 +14474,11 @@
                 "German",
                 "Greek"
             ],
-            "Box office": "$603,434"
+            "Box office": "$603,434",
+            "ImdbRating": "6.7",
+            "MetaScore": "38",
+            "ImdbVotes": "13,824",
+            "Rotten Tomatoes": "54%"
         }
     },
     {
@@ -13271,7 +14517,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$17 million",
-            "Box office": "$623,088"
+            "Box office": "$623,088",
+            "ImdbRating": "5.7",
+            "MetaScore": "55",
+            "ImdbVotes": "4,799",
+            "Rotten Tomatoes": "73%"
         }
     },
     {
@@ -13313,7 +14563,11 @@
             ],
             "Language": "English",
             "Budget": "$80–100million",
-            "Box office": "$366million"
+            "Box office": "$366million",
+            "ImdbRating": "7.0",
+            "MetaScore": "71",
+            "ImdbVotes": "321,358",
+            "Rotten Tomatoes": "90%"
         }
     },
     {
@@ -13355,7 +14609,11 @@
                 "Spanish"
             ],
             "Budget": "$9million",
-            "Box office": "$123.1million"
+            "Box office": "$123.1million",
+            "ImdbRating": "5.2",
+            "MetaScore": "41",
+            "ImdbVotes": "48,756",
+            "Rotten Tomatoes": "28%"
         }
     },
     {
@@ -13388,7 +14646,11 @@
             ],
             "Running time": "115 minutes",
             "Country": "Japan",
-            "Language": "Japanese"
+            "Language": "Japanese",
+            "ImdbRating": "6.1",
+            "MetaScore": "N/A",
+            "ImdbVotes": "816",
+            "Rotten Tomatoes": "NAN"
         }
     },
     {
@@ -13448,7 +14710,11 @@
             ],
             "Language": "English",
             "Budget": "$150 million",
-            "Box office": "$433.9 million"
+            "Box office": "$433.9 million",
+            "ImdbRating": "6.5",
+            "MetaScore": "53",
+            "ImdbVotes": "158,021",
+            "Rotten Tomatoes": "68%"
         }
     },
     {
@@ -13482,7 +14748,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$9 million",
-            "Box office": "$6.8 million"
+            "Box office": "$6.8 million",
+            "ImdbRating": "5.9",
+            "MetaScore": "52",
+            "ImdbVotes": "7,343",
+            "Rotten Tomatoes": "52%"
         }
     },
     {
@@ -13549,7 +14819,11 @@
             ],
             "Language": "English",
             "Budget": "$170–200 million",
-            "Box office": "$386.6 million"
+            "Box office": "$386.6 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "48",
+            "ImdbVotes": "176,758",
+            "Rotten Tomatoes": "42%"
         }
     },
     {
@@ -13590,7 +14864,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$30–35 million",
-            "Box office": "$21.4 million"
+            "Box office": "$21.4 million",
+            "ImdbRating": "6.0",
+            "MetaScore": "50",
+            "ImdbVotes": "76,955",
+            "Rotten Tomatoes": "67%"
         }
     },
     {
@@ -13629,7 +14907,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$27–$32million",
-            "Box office": "$231.3million"
+            "Box office": "$231.3million",
+            "ImdbRating": "5.9",
+            "MetaScore": "53",
+            "ImdbVotes": "72,790",
+            "Rotten Tomatoes": "64%"
         }
     },
     {
@@ -13653,7 +14935,11 @@
             ],
             "Running time": "89 minutes",
             "Country": "United States",
-            "Language": "English"
+            "Language": "English",
+            "ImdbRating": "3.7",
+            "MetaScore": "N/A",
+            "ImdbVotes": "2,723",
+            "Rotten Tomatoes": "41%"
         }
     },
     {
@@ -13694,7 +14980,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$38 million",
-            "Box office": "$16 million"
+            "Box office": "$16 million",
+            "ImdbRating": "5.5",
+            "MetaScore": "35",
+            "ImdbVotes": "20,693",
+            "Rotten Tomatoes": "23%"
         }
     },
     {
@@ -13739,7 +15029,11 @@
             "Country": "United Kingdom",
             "Language": "English",
             "Budget": "$15 million",
-            "Box office": "$18.1 million"
+            "Box office": "$18.1 million",
+            "ImdbRating": "6.9",
+            "MetaScore": "71",
+            "ImdbVotes": "24,782",
+            "Rotten Tomatoes": "88%"
         }
     },
     {
@@ -13788,7 +15082,11 @@
             "Running time": "113 minutes",
             "Country": "United Kingdom",
             "Language": "English",
-            "Box office": "$2.9 million"
+            "Box office": "$2.9 million",
+            "ImdbRating": "6.6",
+            "MetaScore": "61",
+            "ImdbVotes": "34,501",
+            "Rotten Tomatoes": "63%"
         }
     },
     {
@@ -13831,7 +15129,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$79million",
-            "Box office": "$473.1million"
+            "Box office": "$473.1million",
+            "ImdbRating": "6.5",
+            "MetaScore": "58",
+            "ImdbVotes": "249,486",
+            "Rotten Tomatoes": "62%"
         }
     },
     {
@@ -13871,7 +15173,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$44–49million",
-            "Box office": "$9.9 million"
+            "Box office": "$9.9 million",
+            "ImdbRating": "6.3",
+            "MetaScore": "40",
+            "ImdbVotes": "22,120",
+            "Rotten Tomatoes": "25%"
         }
     },
     {
@@ -13907,7 +15213,11 @@
                 "Korean",
                 "English"
             ],
-            "Box office": "$7.8 million"
+            "Box office": "$7.8 million",
+            "ImdbRating": "6.2",
+            "MetaScore": "N/A",
+            "ImdbVotes": "1,522",
+            "Rotten Tomatoes": "44%"
         }
     },
     {
@@ -13950,7 +15260,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$55–70 million",
-            "Box office": "$1.074 billion"
+            "Box office": "$1.074 billion",
+            "ImdbRating": "8.4",
+            "MetaScore": "59",
+            "ImdbVotes": "1,202,860",
+            "Rotten Tomatoes": "68%"
         }
     },
     {
@@ -13992,7 +15306,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$26 million",
-            "Box office": "$18.5 million"
+            "Box office": "$18.5 million",
+            "ImdbRating": "6.8",
+            "MetaScore": "60",
+            "ImdbVotes": "56,192",
+            "Rotten Tomatoes": "64%"
         }
     },
     {
@@ -14028,7 +15346,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$45–55 million",
-            "Box office": "$72.3 million"
+            "Box office": "$72.3 million",
+            "ImdbRating": "7.3",
+            "MetaScore": "59",
+            "ImdbVotes": "184,058",
+            "Rotten Tomatoes": "78%"
         }
     },
     {
@@ -14084,7 +15406,11 @@
                 "English",
                 "French"
             ],
-            "Box office": "$50,820"
+            "Box office": "$50,820",
+            "ImdbRating": "6.0",
+            "MetaScore": "59",
+            "ImdbVotes": "1,078",
+            "Rotten Tomatoes": "76%"
         }
     },
     {
@@ -14125,7 +15451,11 @@
             ],
             "Language": "English",
             "Budget": "$10 million",
-            "Box office": "$33.9 million"
+            "Box office": "$33.9 million",
+            "ImdbRating": "6.7",
+            "MetaScore": "55",
+            "ImdbVotes": "40,402",
+            "Rotten Tomatoes": "63%"
         }
     },
     {
@@ -14169,7 +15499,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$45 million",
-            "Box office": "$43.7 million"
+            "Box office": "$43.7 million",
+            "ImdbRating": "7.5",
+            "MetaScore": "68",
+            "ImdbVotes": "83,844",
+            "Rotten Tomatoes": "77%"
         }
     },
     {
@@ -14211,7 +15545,11 @@
             "Country": "United States",
             "Language": "English",
             "Budget": "$25 million",
-            "Box office": "$50.4 million"
+            "Box office": "$50.4 million",
+            "ImdbRating": "7.6",
+            "MetaScore": "68",
+            "ImdbVotes": "64,922",
+            "Rotten Tomatoes": "85%"
         }
     },
     {
@@ -14248,7 +15586,11 @@
                 "Germany",
                 "Switzerland"
             ],
-            "Language": "German"
+            "Language": "German",
+            "ImdbRating": "7.0",
+            "MetaScore": "54",
+            "ImdbVotes": "2,405",
+            "Rotten Tomatoes": "81%"
         }
     }
 ]
